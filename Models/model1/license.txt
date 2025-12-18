@@ -1,0 +1,11 @@
+Model Information:
+* title:	Klee Genshin Impact
+* source:	https://sketchfab.com/3d-models/klee-genshin-impact-6d4aa4cbace34c4d999c94a2f2c61fcd
+* author:	fangzhangmnm (https://sketchfab.com/fangzhangmnm)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Klee Genshin Impact" (https://sketchfab.com/3d-models/klee-genshin-impact-6d4aa4cbace34c4d999c94a2f2c61fcd) by fangzhangmnm (https://sketchfab.com/fangzhangmnm) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

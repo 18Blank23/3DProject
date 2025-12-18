@@ -1,0 +1,11 @@
+Model Information:
+* title:	Rem : Re Zero
+* source:	https://sketchfab.com/3d-models/rem-re-zero-6d6207786efb4cbfa83d7870e8ae509d
+* author:	Casttelan2 (https://sketchfab.com/Casttelan2)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Rem : Re Zero" (https://sketchfab.com/3d-models/rem-re-zero-6d6207786efb4cbfa83d7870e8ae509d) by Casttelan2 (https://sketchfab.com/Casttelan2) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
